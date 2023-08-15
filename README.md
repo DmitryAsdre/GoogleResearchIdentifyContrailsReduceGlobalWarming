@@ -1,4 +1,4 @@
-# Google Research : Identify Contrails to Reduce GlobalWarming
+# Google Research : Identify Contrails to Reduce Global Warming
 This repository contains code for Google Research: Identify Contrails to Reduce Global Warming kaggle competition.
 
 Kaggle competition - https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming
